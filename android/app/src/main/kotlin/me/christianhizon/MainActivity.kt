@@ -1,4 +1,4 @@
-package com.example.personal_porfolio
+package me.christianhizon
 
 import io.flutter.embedding.android.FlutterActivity
 
